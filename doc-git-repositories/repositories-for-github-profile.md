@@ -10,6 +10,7 @@
 
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 
 ## Components
 
